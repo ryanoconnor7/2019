@@ -138,6 +138,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Renata Faria](https://www.linkedin.com/in/renatafg-240996)|[GitHub](https://github.com/xReee/wwdc2019)|[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Submitted|
 |[Roland Horváth](https://twitter.com/hroland_)||[YouTube](https://www.youtube.com/watch?v=M-qtaV6lY_g)|CoreML, Vision, ARKit, AVFoundation |Submitted|
+|[Ryan O'Connor](https://twitter.com/ryan7oconnor)||[YouTube](https://www.youtube.com/watch?v=jUrjRzJdDKw)|UIKit, SpriteKit, CoreGraphics, PlaygroundBook|Accepted|
 |[Sahith Thummalapally](https://sahithr03.github.io)|[Github](https://github.com/sahithr03)|[Youtube](https://youtu.be/h0jERgTNPdU)|AVKit, UIKit, Vision, CoreML|Submitted|
 |[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, SceneKit, ARKit, CoreML|Submitted|
 |[Sam Eckert](https://twitter.com/sam0711er)||[YouTube](https://youtu.be/8GhNUKteLMg)|AVFoundation, SpriteKit, Vision & CoreML|Submitted|
